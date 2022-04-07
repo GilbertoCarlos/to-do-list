@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,KAAK,CAAA;EACH,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EAEvB,UAAU,EAAC,IAAI;CAahB;;AAlBD,AAOE,KAPG,CAOH,MAAM,CAAA;EACJ,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,IAAI;EACnB,UAAU,ECFC,OAAO;EDIlB,SAAS,EAAE,IAAI;EACf,KAAK,ECdQ,OAAO;EDgBpB,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,IAAI;CACd",
+    "sources": [
+        "todo-button-delete-all.component.scss",
+        "../../../../../dist/scss/variables.scss"
+    ],
+    "names": [],
+    "file": "todo-button-delete-all.component.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,EAAE,CAAA;EACE,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,MAAM;EAEf,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,KAAK,ECNQ,OAAO;EDQpB,gBAAgB,ECVJ,OAAO;CDWpB",
+    "sources": [
+        "header.component.scss",
+        "../../../../../dist/scss/variables.scss"
+    ],
+    "names": [],
+    "file": "header.component.css"
+}
